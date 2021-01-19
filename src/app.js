@@ -1,0 +1,1 @@
+new PeopleController(new PeopleView(), new PeopleService());
